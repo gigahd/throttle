@@ -6,6 +6,7 @@ realm = "shared"
 license = "MIT"
 authors = ["gigahd"]
 description = "A collection of lightweight throttling functions"
+repository = "https://github.com/gigahd/throttle"
 
 
 exclude = ["*"]
